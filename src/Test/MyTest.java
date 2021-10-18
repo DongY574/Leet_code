@@ -18,10 +18,7 @@ import java.util.regex.Pattern;
 public class MyTest {
     @Test
     public void test() {
-        int[] arr = {-2,-1,5,8,10};
-        int sum = Arrays.stream(arr).sum();
-        System.out.println(Arrays.binarySearch(arr, 0));
-        System.out.println(sum);
+
     }
 }
 
