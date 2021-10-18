@@ -19,6 +19,7 @@ public class MyTest {
     @Test
     public void test() {
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
 
