@@ -18,7 +18,7 @@ import java.util.regex.Pattern;
 public class MyTest {
     @Test
     public void test() {
-
+        System.out.println("master");
     }
 }
 
